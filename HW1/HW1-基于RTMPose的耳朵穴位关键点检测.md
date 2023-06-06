@@ -88,4 +88,4 @@ ERROR: No matching distribution found for mmdet>=3.0.0rc6
 
 ## Log&Checkpoint
 
-见  [rtmdet](/rtmdet)与 [rtmpose-s](/rtmpose-s) 文件夹
+见  [rtmdet](/HW1/rtmdet)与 [rtmpose-s](/HW1/rtmpose-s) 文件夹
