@@ -7,4 +7,4 @@ OpenMMLab-AI实战营第二期-课程作业(By: YuetianW)
 
 ## HW2-基于 ResNet50 的水果分类
 
-作业2：[作业2](/HW2/HW2-基于 ResNet50 的水果分类.md)
+作业2：[作业2](/HW2/HW2-基于ResNet50的水果分类.md)
