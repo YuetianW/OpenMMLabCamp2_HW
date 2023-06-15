@@ -66,7 +66,7 @@
 06/14 13:17:03 - mmengine - INFO - Iter(test) [11/11]    aAcc: 82.1300  mIoU: 56.4200  mAcc: 63.8900  data_time: 0.0213  time: 4.8992
 ```
 
-![image-20230614211728128](C:\Users\YuetianW\AppData\Roaming\Typora\typora-user-images\image-20230614211728128.png)
+![image-20230614211728128](https://s2.loli.net/2023/06/15/5iEh3gyo1BsTzMQ.png)
 
 3.网络西瓜图片预测
 
