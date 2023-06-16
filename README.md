@@ -16,3 +16,7 @@ OpenMMLab-AI实战营第二期-课程作业(By: YuetianW)
 ## HW4-MMSeg西瓜语义分割
 
 作业4：[作业4](/HW4/HW4-MMSeg西瓜语义分割.md)
+
+## HW5-ControlNet的N种玩法
+
+作业5：[作业5](/HW5/HW5-ControlNet的N种玩法.md)
